@@ -30,7 +30,7 @@ var previouscontextualHtmlNumber = 1;
 
 var startingSeconds = getQueryVariable("s");
 
-var citationUrl = "https://mcluhan.consortium.io/index.html";
+var citationUrl = "https://mcluhan.consortium.io";
 
 $(document).ready(function()
 {
@@ -511,7 +511,7 @@ function goToSentence(e)
 // Make Citation
 function makeCitation()
 {
-  var text = citationUrl + "?s=" + Math.round(player.getCurrentTime());
+  var text = citationUrl + "/index.html?s=" + Math.round(player.getCurrentTime());
   window.prompt("Copy to clipboard: PC: Ctrl+C, Enter - OSX Cmd+C, Enter", text);
 }
 
