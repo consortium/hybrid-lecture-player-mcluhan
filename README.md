@@ -73,7 +73,7 @@ Simon Worthington - concept, project lead
 Christina Kral - concept, project manager   
 Graham Larkin - lecturer, slides, network in Canada, exchange   
 Daniel Jackson, AVCO Ltd - Hybrid Lecture Player developer   
-Loraine Further - interface design   
+Loraine Furter - interface design   
 Johannes Amorosa - Sysadmin   
 Annika Gieselmann - transcription draft   
 Peter Carty - transcription copy editor   
