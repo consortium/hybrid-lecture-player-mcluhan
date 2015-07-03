@@ -50,7 +50,9 @@ All software dependencies are copyright to their respective owners. All fonts ar
 
 ## Acknowledgements
 
-Thanks to our collaboration partner on the project the Marshall McLuhan Salon, Canadian Embassy, Berlin, which holds the largest Marshall McLuhan archive in Europe. The Graham Larkin lecture (2011) was supported, filmed and is used here courtesy of the Marshall McLuhan Salon.  
+Thanks to our collaboration partner on the project the Marshall McLuhan Salon, Canadian Embassy, Berlin, which holds the largest Marshall McLuhan archive in Europe. The Graham Larkin lecture (2011) was supported, filmed and is used here courtesy of the Marshall McLuhan Salon.
+
+http://www.mcluhan-salon.de/
 
 ### About the Hybrid Publishing Consortium
 
