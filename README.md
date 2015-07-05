@@ -4,6 +4,8 @@
 
 ### A lecture by Graham Larkin given at the Marshall McLuhan Salon, Canadian Embassy, Berlin, in 2011
 
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.19331.svg)](http://dx.doi.org/10.5281/zenodo.19331)
+
 A publishing research prototype by the Hybrid Publishing Consortium
 
 View the player - https://mcluhan.consortium.io/
