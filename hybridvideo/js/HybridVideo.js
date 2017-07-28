@@ -487,7 +487,9 @@ function goToChapter(secondsPosition)
 
   document.getElementById("transcription-line").innerHTML = captionsText[captionNumber-1];
 
-  player.seekTo(secondsPosition);
+  console.log("player.seekTo(secondsPosition, true");
+  // player.seekTo(secondsPosition); // Replaced with playVideo(seconds) as seekTo generated error
+  player.playVideo(secondsPosition);
 }
 
 function goToSentence(e)
@@ -505,7 +507,7 @@ function goToSentence(e)
 
   document.getElementById("transcription-line").innerHTML = captionsText[captionNumber-1];
 
-  player.seekTo(secondsPosition);
+  player.playVideo(secondsPosition);
 }
 
 // Make Citation
