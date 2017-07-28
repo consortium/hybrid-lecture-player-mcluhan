@@ -506,7 +506,8 @@ function goToSentence(e)
   captionNumber = findCaptionNumber(secondsPosition);
 
   document.getElementById("transcription-line").innerHTML = captionsText[captionNumber-1];
-
+  
+  // player.seekTo(secondsPosition); // Replaced with playVideo(seconds) as seekTo generated error
   player.playVideo(secondsPosition);
 }
 
